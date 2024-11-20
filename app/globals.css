@@ -67,3 +67,19 @@
 html {
   scroll-behavior: smooth;
 }
+
+@keyframes wave {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(1deg);
+  }
+  75% {
+    transform: rotate(-1deg);
+  }
+}
+
+.hover\:animate-wave:hover {
+  animation: wave 0.3s ease-in-out;
+}
