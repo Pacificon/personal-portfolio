@@ -80,11 +80,6 @@ export const Socials = [
     link: "https://github.com/Pacificon",
   },
   {
-    name: "Twitter",
-    src: "/twitter.png",
-    link: "https://x.com/Capvin17",
-  },
-  {
     name: "Leetcode",
     link: "https://leetcode.com/Prashant_01/",
     title: "Leetcode",
