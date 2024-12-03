@@ -86,6 +86,12 @@ export const Socials = [
     src: "/leetcode.png",
   },
   {
+    name: "Twitter",
+    link: "https://x.com/i/flow/login?redirect_after_login=%2Fprashant_t49",
+    title: "Twitter",
+    src: "/twitter.png",
+  },
+  {
     name: "Instagram",
     link: "https://www.instagram.com/prashant.t277/",
     src: "/instagram.svg",
